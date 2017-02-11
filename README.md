@@ -1,2 +1,2 @@
 # trainsim
-a stochastic discrete event-driven simulation
+a stochastic discrete event-driven poopy pants simulation
